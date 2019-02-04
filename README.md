@@ -1,5 +1,5 @@
 # Clutch.co Email Scraper
-Simple regex-based web scraper which returns a `.csv` of Company Name, Email for Agencies listed on clutch.co.
+Simple regex-based web scraper which returns a `.csv` of Company Name, Email for Agencies listed on https://clutch.co/
 
 # Notes:
 - The `progress.txt` file keeps track of all the URLs scraped.
